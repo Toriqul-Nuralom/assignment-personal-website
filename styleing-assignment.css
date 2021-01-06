@@ -98,7 +98,7 @@ i{
 .third-part{
     background-image: url(images/main11.png);
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: 80%;
     height: 100%;
     margin-left: 20%;
     margin-top: 100;
@@ -115,4 +115,10 @@ i{
     border-radius: 5px;
     margin-left: 10px;
     margin-left: 250px;
+}
+.last-part{
+    text-align: center;
+}
+.copyright{
+    font-size: 12px;
 }
